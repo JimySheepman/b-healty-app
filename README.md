@@ -1,0 +1,3 @@
+# healty-app
+
+Calculate BMI
